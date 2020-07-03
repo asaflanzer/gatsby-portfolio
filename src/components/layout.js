@@ -25,7 +25,7 @@ const GatsbyLink = styled.a`
 `
 
 const Footer = styled.footer`
-  display: flex;
+  display: none;
   justify-content: center;
 `
 
